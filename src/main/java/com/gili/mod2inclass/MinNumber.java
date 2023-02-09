@@ -26,7 +26,7 @@ public class MinNumber {
                 min = current;
             }
         }
-        System.out.println(min);
+        System.out.println("The smallest is: " + min);
     }
     public static String ordSuffix(int num) {
         //correct ordinal suffix generator
